@@ -1,0 +1,294 @@
+
+
+
+
+.background-image{
+    width:100%;
+    height:800px;
+    position:absolute;
+    left:0px;
+    right:0px;
+    top:0px;
+
+}
+
+.main_div{
+    display:flex;
+    flex-direction: row;
+    align-items:center;
+   background-color:black;
+    position:fixed;
+    top:0px;
+    right:0px;
+    left:0px;
+    z-index:200;
+    
+    
+}
+.midnight{
+ font-weight:900;
+ color:#F79A19;
+ font-family:"Josefin Sans",sans-serif;
+ font-size:30px;
+ font-style:oblique;
+ width:900px;
+}
+.icon1{
+    height:15px;
+    color:white;
+    position:absolute;
+    right:290px;
+    top:8px;
+}
+.home{
+    font-size:15px;
+    font-family:roboto, "Arial";
+    font-weight:500;
+    color:#F79A19;
+    width:60px;
+    
+
+}
+.about{
+    font-size:15px;
+    font-family:roboto, "Arial";
+    font-weight:500;
+    width:60px;
+    color:white;
+    
+}
+.service{
+    font-size:15px;
+    font-family:roboto, "Arial";
+    font-weight:500;
+    width:75px;
+    color:white;
+    
+}
+.menu1{
+    font-size:15px;
+    font-family:roboto, "Arial";
+    font-weight:500;
+    width:60px;
+    color:white;
+    
+}
+.contact{
+    font-size:15px;
+    font-family:roboto, "Arial";
+    font-weight:500;
+    width:95px;
+    color:white;
+    
+}
+.book_a_table{
+    align-items: center;
+    font-size:15px;
+    font-family:roboto, "Arial";
+    font-weight:500;
+    color:white;
+    background-color: #F79A19;
+    width:130px;
+    padding:10px;
+    padding-right:0px;
+    border-radius:40px;
+    
+    
+    
+}
+.pages{
+   font-size:15px;
+    font-family:roboto, "Arial";
+    font-weight:500;
+    width:80px; 
+    margin-bottom:0px;
+    color:white;
+}
+.img_topic{
+    position:relative;
+    width:100%;
+}
+.topic{
+    color:white;
+    width:710px;
+    font-size:65px;
+    position:absolute;
+    top:300px;
+    left:70px;
+    font-family:"Caveat", cursive;
+}
+.subtopic{
+    width:600px;
+    font-size:14px;
+    color:white;
+    margin:0px;
+    font-family:roboto,"arial";
+    position:absolute;
+    top:400px;
+    left:70px;
+
+}
+.paneer{
+    border-radius:900px;
+    
+    height:600px;
+    width:600px;
+    position:absolute;
+    top:90px;
+    left:750px;
+}
+.menu-subtopics{
+    display:flex;
+    flex-direction:row;
+    position:relative;
+    z-index:100;
+    justify-content: center;
+    top:900px;
+   
+    
+}
+.pizza{
+    height:20px;
+}
+.salad{
+    height:20px;
+}
+.drink{
+    height:20px;
+}
+.cut{
+    height:20px;
+}
+.menu{
+    font-weight:bolder;
+    font-size:23px;
+    width:100px;
+    position:relative;
+    z-index:100;
+    color:black;
+    top:850px;
+    left:700px;
+    width:200px;
+    
+}
+.food_img{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    position:relative;
+    top:950px;
+    
+
+}
+.aloo{
+    height:200px ;
+    width:200px;
+     border-radius:30px; 
+     
+}
+.dosa{
+    height:200px ;
+    width:200px;
+    border-radius:30px; 
+    margin-right:40px;
+
+}
+.briyani{
+    height:200px ;
+    width:200px;
+    border-radius:30px; 
+    margin-right:40px;
+
+}
+.puri{
+    height:200px ;
+    width:200px;
+    border-radius:30px; 
+    margin-right:40px;
+
+}
+.white_box{
+    background-color: white;
+    height:88px;
+    width:150px;
+    padding-left:30px;
+    padding-right:30px;
+    position:absolute;
+    top:170px;
+    left:20px;
+    border-radius:10px;
+}
+.order{
+    position:absolute;
+    top:248px;
+    left:80px;
+    background-color:rgb(221, 208, 208);
+    padding: 7px;
+    padding-left:18px;
+    padding-right:18px;
+    border-radius: 10px;
+}
+.black_background{
+    background-color: black;
+    width:2200px;
+    height:590px;
+    position:absolute;
+    z-index:100;
+    top:1400px;
+
+}
+.about_us{
+    position:relative;
+    z-index:100;
+    color:#F79A19;
+    top:1200px;
+    left:700px ;
+    font-size:20px;    
+}
+.about_para{
+    line-height:30px;
+    color:white;
+    top:50px;
+    width:700px;
+    position:absolute;
+    left:0px;
+    font-size:16px;
+}
+
+.samosa{
+    position:absolute;
+    top:0px;
+    right:1750px ;
+    
+}
+.gulab{
+    height:190px;
+    position:absolute;
+    right:1700px;
+    top:0px;
+}
+.momo{
+    height:130px ;
+    position:absolute;
+    right:1650px;
+    top:179px;
+}
+.tikki{
+    height:110px;
+    position:absolute;
+    right:1700px;
+    top:330px;
+}
+.page {
+  position:relative;
+}
+.footer {
+  width:100%;
+  position:absolute;
+  background: #111;
+  color: white;
+  padding: 30px;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  top:2000px;
+}
