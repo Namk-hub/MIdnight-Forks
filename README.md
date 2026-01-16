@@ -1,35 +1,44 @@
-# Midnight Forks
+# 🍴 Midnight Forks
 
-Midnight Forks is a simple restaurant landing page I built using **just HTML and CSS**.  
-The idea was to create a cozy, late-night food vibe with bold visuals and a clean layout — something fun but still structured.
+Midnight Forks is a simple restaurant landing page built using **HTML and CSS only**.  
+The goal was to create a cozy, late-night food vibe with bold visuals and a clean, structured layout.
 
-This project helped me practice:
-- page layout
-- image handling
-- fonts & colors
+This project focuses purely on frontend layout and design — no JavaScript involved.
 
+---
 
- **Live site:**  
+## ✨ Features
+- Hero section with a catchy tagline
+- **Menu section** showcasing food categories with images
+- **About Us section** describing the restaurant vibe
+- Footer with contact information and social links
+  
+
+---
+
+## 🛠️ Tech Used
+- **HTML5**
+- **CSS3**
+- **Google Fonts**
+- **GitHub Pages** (for deployment)
+
+---
+
+## 📚 What I Practiced / Learned
+- Page layout and section structuring
+- Image handling and positioning
+- Working with fonts and color palettes
+- Building a complete static webpage from scratch
+- Hosting a site using GitHub Pages
+
+---
+
+## 🚀 Live Demo
+🔗 **Live Site:**  
 https://namk-hub.github.io/MIdnight-Forks/restaurant.html
 
 ---
 
-# What’s on the page
-- A  section with a tagline  
-- Menu categories with food images  
-- “About Us” section  
-- Footer with contact info and socials  
-
-No JavaScript yet — this is purely a front-end layout project.
-
----
-
-# Built with
-- HTML
-- CSS
-- Google Fonts  
-- GitHub Pages  
-
----
+https://github.com/user-attachments/assets/65a91fa7-0979-460e-9fec-b6aaeb6fb4db
 
 
