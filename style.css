@@ -1,4 +1,7 @@
-
+*{
+    box-sizing: border-box;
+}
+    
 
 
 
@@ -292,3 +295,4 @@
   font-family: 'Josefin Sans', sans-serif;
   top:2000px;
 }
+
