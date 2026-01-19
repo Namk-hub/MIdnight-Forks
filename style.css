@@ -1,8 +1,10 @@
 *{
     box-sizing: border-box;
 }
-    
 
+.img{max-width: 100%;
+  height: auto;
+}
 
 
 .background-image{
@@ -295,4 +297,5 @@
   font-family: 'Josefin Sans', sans-serif;
   top:2000px;
 }
+
 
