@@ -180,40 +180,27 @@
     
 }
 .food_img{
-    display:flex;
-    flex-direction:row;
+    display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    position:relative;
-    top:950px;
+    gap: 20px;      
+    position: relative;
+    top: 950px;
     
 
 }
 .aloo{
-    height:200px ;
-    width:200px;
-     border-radius:30px; 
+  margin-right: 0px;
      
 }
 .dosa{
-    height:200px ;
-    width:200px;
-    border-radius:30px; 
-    margin-right:40px;
-
+   margin-right: 0px;
 }
 .briyani{
-    height:200px ;
-    width:200px;
-    border-radius:30px; 
-    margin-right:40px;
-
+   margin-right: 0px;
 }
 .puri{
-    height:200px ;
-    width:200px;
-    border-radius:30px; 
-    margin-right:40px;
-
+   margin-right: 0px;
 }
 .white_box{
     background-color: white;
@@ -237,22 +224,20 @@
     border-radius: 10px;
 }
 .black_background{
-    background-color: black;
-    width:2200px;
-    height:590px;
-    position:absolute;
-    z-index:100;
-    top:1400px;
-
+   background-color: black;
+    width: 100%;       
+    height: auto;      
+    padding: 50px 0;
 }
 .about_us{
-    position:relative;
-    z-index:100;
-    color:#F79A19;
-    top:1200px;
-    left:700px ;
-    font-size:20px;    
-}
+   display: flex;
+    flex-direction: column;
+    align-items: center;    
+    margin: 100px auto;    
+    padding: 20px;
+    width: 90%;             
+    max-width: 800px;       
+    text-align: center;
 .about_para{
     line-height:30px;
     color:white;
@@ -299,6 +284,18 @@
   text-align: center;
   font-family: 'Josefin Sans', sans-serif;
   top:2000px;
+}
+.about_images_container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.about_images_container img {
+    height: 150px; 
+    position: static; 
 }
 
 
