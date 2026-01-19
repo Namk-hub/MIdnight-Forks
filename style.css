@@ -239,13 +239,15 @@
     max-width: 800px;       
     text-align: center;
 .about_para{
-    line-height:30px;
-    color:white;
-    top:50px;
-    width:700px;
-    position:absolute;
-    left:0px;
-    font-size:16px;
+    .about_para {
+    line-height: 1.6;       
+    color: white;
+    font-size: 16px;
+    position: relative;     
+    margin: 20px auto;       
+    width: 90%;             
+    max-width: 700px;        
+    text-align: center;     
 }
 
 .samosa{
@@ -297,6 +299,7 @@
     height: 150px; 
     position: static; 
 }
+
 
 
 
