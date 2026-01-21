@@ -4,6 +4,7 @@ Midnight Forks is a simple restaurant landing page built using **HTML and CSS on
 The goal was to create a cozy, late-night food vibe with bold visuals and a clean, structured layout.
 
 This project focuses purely on frontend layout and design — no JavaScript involved.
+💻 Designed primarily for desktop and laptop screens. Responsive support is not included yet.
 
 ---
 
